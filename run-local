@@ -1,0 +1,2 @@
+#!/bin/bash\n
+open http://localhost:5000 && ruby -run -e httpd -- -p 5000 ~/http://screpps.github.com
